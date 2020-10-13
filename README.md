@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexscigalszky" alt="alexscigalszky" /> </p>
 
-- 🌱 I’m currently learning **VueJS, Docker**
+- 🌱 I’m currently learning **VueJS, Docker, Scully**
 - 🌱 I’m currently learning everything 🤣
 
 - 👯 I’m collaborate on [Runox](https://github.com/jorgeucano/RunoX)
