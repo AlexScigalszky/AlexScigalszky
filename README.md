@@ -7,6 +7,8 @@
 - 🌱 I’m currently learning **VueJS, Docker, Scully**
 - 🌱 I’m currently learning everything 🤣
 
+- 👯 I’m collaborate on [Scully](https://github.com/scullyio/scully)
+
 - 👯 I’m collaborate on [Runox](https://github.com/jorgeucano/RunoX)
 
 - 👯 I’m collaborate on [runox-game-engine](https://github.com/runox-game/game-engine)
@@ -15,7 +17,7 @@
 
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
-- 💬 Ask me about **Angular, TypeScript, .Net Core, Entity Framework, MSSQL, PHP, Javascript**
+- 💬 Ask me about **Angular, TypeScript, .Net Core, Entity Framework, MSSQL, PHP, Javascript, RxJS**
 
 - 📫 How to reach me **alexpablo.90@gmail.com**
 
