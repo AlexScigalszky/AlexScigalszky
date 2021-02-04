@@ -17,7 +17,7 @@
 
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
-- 💬 Ask me about **Angular, TypeScript, .Net Core, Entity Framework, MSSQL, PHP, Javascript, RxJS**
+- 💬 Ask me about **Angular, TypeScript, .Net Core, Entity Framework, MSSQL, PHP, Javascript, RxJS, AngularJS, VueJS**
 
 - 📫 How to reach me **alexpablo.90@gmail.com**
 
