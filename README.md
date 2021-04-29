@@ -23,7 +23,7 @@
 
 - ⚡ Fun fact **I drink mate (argentinian)**
 
-<a href="https://zenodo.org/badge/latestdoi/224012839"><img src="https://zenodo.org/badge/224012839.svg" alt="DOI"></a>
+<a href="https://zenodo.org/badge/latestdoi/224012839"><img src="https://zenodo.org/badge/224012839.svg" width="50" alt="DOI"></a>
 
 <p align="center">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="50" height="50"/>
