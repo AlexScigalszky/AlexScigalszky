@@ -7,17 +7,17 @@
 - 🌱 I’m currently learning **VueJS, Klotlin, React**
 - 🌱 I’m currently learning everything 🤣
 
-- 👯 I’m collaborate on [Scully](https://github.com/scullyio/scully)
+- 👯 I collaborate on [Scully](https://github.com/scullyio/scully)
 
-- 👯 I’m collaborate on [Runox](https://github.com/jorgeucano/RunoX)
+- 👯 I collaborate on [Runox](https://github.com/jorgeucano/RunoX)
 
-- 👯 I’m collaborate on [runox-game-engine](https://github.com/runox-game/game-engine)
+- 👯 I collaborate on [runox-game-engine](https://github.com/runox-game/game-engine)
 
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I looking to collaborate with other content creators
 
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
-- 💬 Ask me about **Angular, TypeScript, .Net Core, Entity Framework, MSSQL, PHP, Javascript, RxJS, AngularJS, VueJS**
+- 💬 Ask me about **Angular, TypeScript, .Net Core, Entity Framework, MSSQL, PHP, Javascript, RxJS, Node, AngularJS, VueJS**
 
 - 📫 How to reach me **alexpablo.90@gmail.com**
 
