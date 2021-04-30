@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexscigalszky" alt="alexscigalszky" /> </p>
 
-- 🌱 I’m currently learning **VueJS, Klotlin, React**
+- 🌱 I’m currently learning **VueJS, Klotlin, React, Cypress**
 - 🌱 I’m currently learning everything 🤣
 
 - 👯 I collaborate on [Scully](https://github.com/scullyio/scully)
