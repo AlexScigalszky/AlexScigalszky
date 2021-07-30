@@ -69,14 +69,6 @@
 ### <img src="https://play-lh.googleusercontent.com/AidrRy9nYzV-SUWqV5IYeH7Si2DjuEX6tzXvfWu92rMuQ2LRfbXv3VtSgJuGfUHG_oY" width="16px" height="16px" alt="gravatar" />  Palabras Aleatorias
 - App mobile, API Rest, and Web App (alpha version) of random words in spanish
 
-<p align="center"> 
-  [![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_1.svg)](https://cafecito.app/palabrasaleatorias)
-</p>
-
-<p align="center"> 
-  [buy me a coffee](https://www.buymeacoffee.com/palabras)
-</p>
-
 <!-- <p align="center">
   <li>
     vuejs
@@ -141,3 +133,15 @@
 <p align="center">
 <a href="https://linkedin.com/in/alexscigalszky" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alexscigalszky" height="20" width="20" /></a>
 </p> -->
+
+<p align="center"> 
+  <a href="https://cafecito.app/palabrasaleatorias">
+    <img src="https://cdn.cafecito.app/imgs/buttons/button_1.svg" alt="cafecito icon"/>
+  </a>
+</p>
+
+<h3 align="center"> 
+  <a href="https://www.buymeacoffee.com/palabras">
+    Buy me a coffee
+  </a>
+</h3>
