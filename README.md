@@ -52,6 +52,9 @@
 - [Palabras Aleatorias API](https://palabras-aleatorias-public-api.herokuapp.com/)
 - [Amanecer Ocaso](https://alexscigalszky.github.io/amanecer-ocaso/)
 - [HTML to Markdown API](https://html-to-md-api.herokuapp.com/)
+- [Random names](https://alexscigalszky.github.io/random-names-ui/)
+- [Random names API](https://random-names-api.herokuapp.com/random)
+- [Weekly Tool](https://weekly-qa.herokuapp.com/test)
 
 ## 🦾Proyectos en los que he trabajado
 - clicavisos
