@@ -12,11 +12,11 @@
   <img src="https://komarev.com/ghpvc/?username=alexscigalszky" alt="alexscigalszky" /> 
 </p>
 
-- 🌱 I’m currently learning **VueJS, Klotlin, React, Cypress**
+- 🌱 I’m currently learning **NestJS, React, Cypress, Azure, Heroku**
 - 🌱 I’m currently learning everything 🤣
 - 👯 I looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- 💬 Ask me about **Angular, TypeScript, .Net Core, Entity Framework, MSSQL, PHP, Javascript, RxJS, Node, AngularJS, VueJS**
+- 💬 Ask me about **Angular, TypeScript, .Net Core, Entity Framework, MSSQL, PHP, Javascript, RxJS, Node, AngularJS, VueJS, Cypress**
 - 📫 How to reach me **alexpablo.90@gmail.com**
 - ⚡ Fun fact **I drink mate (argentinian)**
 
