@@ -69,68 +69,15 @@
 - Avionics parts purchase and sale system
 ### <img src="https://play-lh.googleusercontent.com/dpO3Qjolp85A-xHIp-JXWu6TrRdiCN3vSTsp8NoXIGem09SumxduDsBsTszq4aMBIxE" width="16px" height="16px" alt="gravatar" /> Saludsa
 - App Mobile and Intranet 
+### <img src="https://play-lh.googleusercontent.com/xhse4q1uysdBGueS0aiB2SBAthR2jKWVN5SNnVhxtDQ361ag-qTp7PoTFhfm38WSeTw=s180" width="16px" height="16px" alt="gravatar" /> OCASA
+- Internal desk system for reception and dispatch packages
 ### <img src="https://www.eaplatina.com/es/wp-content/uploads/2013/10/logo-retina.png" width="16px" height="16px" alt="gravatar" /> EAP-EAS
 - Activities manager and tech migration of core system
+### COELSA
+- Compensadora Electrónica SA. Cámara Electrónica de Compensación de Medios de Pago. Brackgound Process
 ### <img src="https://play-lh.googleusercontent.com/AidrRy9nYzV-SUWqV5IYeH7Si2DjuEX6tzXvfWu92rMuQ2LRfbXv3VtSgJuGfUHG_oY" width="16px" height="16px" alt="gravatar" />  Palabras Aleatorias
 - App mobile, API Rest, and Web App (alpha version) of random words in spanish
 
-<!-- <p align="center">
-  <li>
-    vuejs
-  </li>
-  
-  <li>
-    angularjs
-  </li>
-  
-  <li>
-    android
-  </li>
-  
-  <li>
-    bootstrap
-  </li>
-  
-  <li>
-    csharp
-  </li>
-  
-  <li>
-    dotnet
-  </li>
-  
-  <li>
-    html5
-  </li>
-  
-  <li>
-    typescript
-  </li>
-  
-  <li>
-    mongodb
-  </li>
-  
-  <li>
-    mysql
-  </li>
-  
-  <li>
-    php
-  </li>
-  
-  <li>
-    sass
-  </li>
-  
-  <li>
-    nodejs
-  </li>
-  
-  <li>
-    redux
-  </li>
-</p> -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alexscigalszky&show_icons=true" alt="alexscigalszky" />
 </p>
