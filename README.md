@@ -26,7 +26,7 @@
 * Electro-mechanic technician
 * Degree in IT (Licenciado en Informática)
 
-### Ubicación
+### Geography
 * Argentina
 ### Idiomas
 * Spanish (native)
@@ -60,7 +60,7 @@
 - [Random names API](https://random-names-api.herokuapp.com/random)
 - [Weekly Tool](https://weekly-qa.herokuapp.com/test)
 
-## 🦾Proyectos en los que he trabajado
+## 🦾 Project where I worked
 - clicavisos
 - Cotizador online
 - EDES - Overtime Charging system
@@ -97,5 +97,10 @@
 <h3 align="center"> 
   <a href="https://www.buymeacoffee.com/palabras">
     Buy me a coffee
+  </a>
+</h3>
+<h3 align="center"> 
+  <a href="https://ko-fi.com/Y8Y7BUT9N">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko.fi icon"/>
   </a>
 </h3>
