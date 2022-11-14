@@ -61,6 +61,11 @@
 - [Weekly Tool](https://weekly-qa.herokuapp.com/test)
 
 ## 🦾 Project where I worked
+- Notified
+- Greendot (integration)
+- EAP
+- Seapol
+- Mailroom
 - clicavisos
 - Cotizador online
 - EDES - Overtime Charging system
