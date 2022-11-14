@@ -12,10 +12,10 @@
   <img src="https://komarev.com/ghpvc/?username=alexscigalszky" alt="alexscigalszky" /> 
 </p>
 
-- 🌱 I’m currently learning **NestJS, Flutter, Netlify, Heroku**
+- 🌱 I’m currently learning **NestJS, Flutter, Netlify**
 - 🌱 I’m currently learning everything 🤣
 - 👯 I looking to collaborate with other content creators
-- 🥅 2021/22 Goals: Contribute more to Open Source projects
+- 🥅 2022/23 Goals: Contribute more to Open Source projects and improve my english
 - 💬 Ask me about **Angular, TypeScript, .Net Core, Entity Framework, MSSQL, PHP, Javascript, RxJS, Node, AngularJS, VueJS, Cypress, XUnit, Moq**
 - 💬 Ask me about **MongoDB, MSSQL, MySQL, Cypress, Azure (pipeline-release-repositories), Github, Heroku (starter)**
 - 💬 Ask me about **Testing, TDD, Mocking**
