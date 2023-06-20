@@ -12,11 +12,11 @@
   <img src="https://komarev.com/ghpvc/?username=alexscigalszky" alt="alexscigalszky" /> 
 </p>
 
-- 🌱 I’m currently learning **NestJS, Flutter, Netlify**
+- 🌱 I’m currently learning **Signal, FaunaDB and Architecture**
 - 🌱 I’m currently learning everything 🤣
-- 👯 I looking to collaborate with other content creators
-- 🥅 2022/23 Goals: Contribute more to Open Source projects and improve my english
-- 💬 Ask me about **Angular, TypeScript, .Net Core, Entity Framework, MSSQL, PHP, Javascript, RxJS, Node, AngularJS, VueJS, Cypress, XUnit, Moq**
+- 👯 I am looking to collaborate with other content creators
+- 🥅 2023/24 Goals: Contribute more to Open Source projects and improve my English
+- 💬 Ask me about **Angular, TypeScript, .Net Core, Entity Framework, MSSQL, PHP, Javascript, RxJS, Node, AngularJS, VueJS, Cypress, XUnit, Moq, Netlify**
 - 💬 Ask me about **MongoDB, MSSQL, MySQL, Cypress, Azure (pipeline-release-repositories), Github, Heroku (starter)**
 - 💬 Ask me about **Testing, TDD, Mocking**
 - 📫 How to reach me **alexpablo.90@gmail.com**
@@ -45,6 +45,10 @@
 - [runox-game-engine](https://github.com/runox-game/game-engine)
 
 ## 🏗 Own Projects
+- [Tickecito](https://tickecito.netlify.app)
+- [Is a Public IP or Not?](https://alexscigalszky.github.io/ispublicip/)
+- [Do not Divide by Zero](https://alexscigalszky.github.io/donotdividebyzero/)
+- [English Random topics](https://alexscigalszky.github.io/english/)
 - [palabrasaleatorias.ar](https://palabrasaleatorias.ar)
 - [Remote Desktop](https://alexscigalszky.github.io/remote-work/)
 - [TurnoWeb](https://alexscigalszky.github.io/TurnoWeb/)
@@ -61,6 +65,7 @@
 - [Weekly Tool](https://weekly-qa.herokuapp.com/test)
 
 ## 🦾 Project where I worked
+- Greendot (Core)
 - Notified
 - Greendot (integration)
 - EAP
@@ -81,9 +86,9 @@
 ### <img src="https://www.eaplatina.com/es/wp-content/uploads/2013/10/logo-retina.png" width="16px" height="16px" alt="gravatar" /> EAP-EAS
 - Activities manager and tech migration of core system
 ### COELSA
-- Compensadora Electrónica SA. Cámara Electrónica de Compensación de Medios de Pago. Brackgound Process
+- Compensadora Electrónica SA. Cámara Electrónica de Compensación de Medios de Pago. Background Process
 ### <img src="https://play-lh.googleusercontent.com/AidrRy9nYzV-SUWqV5IYeH7Si2DjuEX6tzXvfWu92rMuQ2LRfbXv3VtSgJuGfUHG_oY" width="16px" height="16px" alt="gravatar" />  Palabras Aleatorias
-- App mobile, API Rest, and Web App (alpha version) of random words in spanish
+- App mobile, API Rest, and Web App (alpha version) of random words in Spanish
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alexscigalszky&show_icons=true" alt="alexscigalszky" />
