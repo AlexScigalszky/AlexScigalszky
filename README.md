@@ -46,6 +46,7 @@
 
 ## 🏗 Own Projects
 - [Tickecito](https://tickecito.netlify.app)
+- [Three Thing To Do in Life](https://alexscigalszky.github.io/threethingstodoinlife_ui/login)
 - [Is a Public IP or Not?](https://alexscigalszky.github.io/ispublicip/)
 - [Do not Divide by Zero](https://alexscigalszky.github.io/donotdividebyzero/)
 - [English Random topics](https://alexscigalszky.github.io/english/)
