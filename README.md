@@ -45,6 +45,7 @@
 - [runox-game-engine](https://github.com/runox-game/game-engine)
 
 ## 🏗 Own Projects
+- [Fika page](https://alexscigalszky.github.io/fika/)
 - [Tickecito](https://tickecito.netlify.app)
 - [Three Thing To Do in Life](https://alexscigalszky.github.io/threethingstodoinlife_ui/login)
 - [Is a Public IP or Not?](https://alexscigalszky.github.io/ispublicip/)
