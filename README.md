@@ -106,8 +106,8 @@
 </p>
 
 <h3 align="center"> 
-  <a href="https://www.buymeacoffee.com/palabras">
-    Buy me a coffee
+  <a href="https://www.buymeacoffee.com/alexscigalszky">
+    Buy me a Book
   </a>
 </h3>
 <h3 align="center"> 
