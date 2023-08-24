@@ -47,7 +47,7 @@
 ## 🏗 Own Projects
 - [Fika page](https://alexscigalszky.github.io/fika/)
 - [Tickecito](https://tickecito.netlify.app)
-- [Three Thing To Do in Life](https://alexscigalszky.github.io/threethingstodoinlife_ui/login)
+- [Three Things To Do in Life](https://alexscigalszky.github.io/threethingstodoinlife_ui/login)
 - [Is a Public IP or Not?](https://alexscigalszky.github.io/ispublicip/)
 - [Do not Divide by Zero](https://alexscigalszky.github.io/donotdividebyzero/)
 - [English Random topics](https://alexscigalszky.github.io/english/)
@@ -67,6 +67,7 @@
 - [Weekly Tool](https://weekly-qa.herokuapp.com/test)
 
 ## 🦾 Project where I worked
+- Greendot (integration)
 - Greendot (Core)
 - Notified
 - Greendot (integration)
@@ -91,6 +92,17 @@
 - Compensadora Electrónica SA. Cámara Electrónica de Compensación de Medios de Pago. Background Process
 ### <img src="https://play-lh.googleusercontent.com/AidrRy9nYzV-SUWqV5IYeH7Si2DjuEX6tzXvfWu92rMuQ2LRfbXv3VtSgJuGfUHG_oY" width="16px" height="16px" alt="gravatar" />  Palabras Aleatorias
 - App mobile, API Rest, and Web App (alpha version) of random words in Spanish
+
+## Code challanges
+- [Mars Rover Challenge (C#) ](https://github.com/AlexScigalszky/MarsChallenge)
+- [Game of life (C#) ](https://github.com/AlexScigalszky/game-of-life)
+- [Simple console chat (js) ](https://github.com/AlexScigalszky/chat)
+
+## 🦾 Code libraries, code examples, guidelines, etc
+- [OpenAPI 7 Swagger (C# + BDD) ](https://github.com/AlexScigalszky/OpenApi.ErrorCodes.Library)
+- [OpenAPI 7 Swagger (C#) ](https://github.com/AlexScigalszky/InterfaceExtentions)
+- [OpenAPI 7 Swagger (C#) ](https://github.com/AlexScigalszky/development)
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alexscigalszky&show_icons=true" alt="alexscigalszky" />
