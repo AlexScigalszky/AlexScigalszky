@@ -45,6 +45,7 @@
 - [runox-game-engine](https://github.com/runox-game/game-engine)
 
 ## 🏗 Own Projects
+- [Numbers in your Code](https://alexscigalszky.github.io/constantnumberinyourcode/)
 - [Fika page](https://alexscigalszky.github.io/fika/)
 - [Tickecito](https://tickecito.netlify.app)
 - [Three Things To Do in Life](https://alexscigalszky.github.io/threethingstodoinlife_ui/login)
