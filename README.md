@@ -1,3 +1,8 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
 <p align="center"> 
   <img src="https://s.gravatar.com/avatar/49e755c948a7e2b1efa3666bcb3ce7db?s=80" alt="gravatar" /> 
 </p>
@@ -12,7 +17,7 @@
   <img src="https://komarev.com/ghpvc/?username=alexscigalszky" alt="alexscigalszky" /> 
 </p>
 
-- 🌱 I’m currently learning **Signal, FaunaDB and Architecture**
+- 🌱 I’m currently learning **Distributed app with .Net, Razor and Architecture**
 - 🌱 I’m currently learning everything 🤣
 - 👯 I am looking to collaborate with other content creators
 - 🥅 2023/24 Goals: Contribute more to Open Source projects and improve my English
@@ -28,7 +33,8 @@
 
 ### Geography
 * Argentina
-### Idiomas
+
+### Lenguages
 * Spanish (native)
 * English (professional competence)
 
