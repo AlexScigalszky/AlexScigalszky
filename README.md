@@ -51,6 +51,7 @@ permalink: /about/
 - [runox-game-engine](https://github.com/runox-game/game-engine)
 
 ## 🏗 Own Projects
+- [Markers on the map](https://alexscigalszky.github.io/markers-on-the-map/)
 - [FunctionSimpleMapper](https://www.nuget.org/packages/FunctionSimpleMapper)
 - [FunctionSimpleMapper.Extensions](https://www.nuget.org/packages/FunctionSimpleMapper.Extensions)
 - [Numbers in your Code](https://alexscigalszky.github.io/constantnumberinyourcode/)
