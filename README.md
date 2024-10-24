@@ -1,8 +1,3 @@
----
-layout: page
-title: About
-permalink: /about/
----
 <p align="center"> 
   <img src="https://s.gravatar.com/avatar/49e755c948a7e2b1efa3666bcb3ce7db?s=80" alt="gravatar" /> 
 </p>
