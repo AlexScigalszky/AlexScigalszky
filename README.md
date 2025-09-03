@@ -12,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=alexscigalszky" alt="alexscigalszky" /> 
 </p>
 
-- 🌱 I’m currently learning **Distributed app with .Net, Razor and Architecture**
+- 🌱 I’m currently learning **Distributed app with .Net, Software Architecture and Redis**
 - 🌱 I’m currently learning everything 🤣
 - 👯 I am looking to collaborate with other content creators
 - 🥅 2023/24 Goals: Contribute more to Open Source projects and improve my English
